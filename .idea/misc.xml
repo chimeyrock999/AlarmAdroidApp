@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.3125" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable-anydpi/ic_flag.xml" value="0.1" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/bgbtngreen.xml" value="0.1" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/btnred.xml" value="0.1" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/circle_background.xml" value="0.1" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/circle_background_bule.xml" value="0.14" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/circle_background_selected.xml" value="0.1" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/circle_white_backgrounf.xml" value="0.136" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/ic_baseline_access_alarm_24.xml" value="0.1615" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/ic_baseline_timelapse_24.xml" value="0.1615" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.1615" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1615" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/ic_twotone_access_alarm_24.xml" value="0.1615" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/ic_twotone_timelapse_24.xml" value="0.1615" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/ic_twotone_timer_24.xml" value="0.1615" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/drawable/nav_bar_background.xml" value="0.14" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/activity_circle_alarm_timer_view.xml" value="0.2047008547008547" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/activity_create_alarm.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/activity_edit_alarm.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/activity_time_picker.xml" value="0.1" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/alarm_list_day.xml" value="0.189453125" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/alarm_list_view.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/fragment_alarm.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/fragment_stopwatch.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/fragment_timer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/layout/product_view.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/SVMC/AndroidStudioProjects/AlarmTeam6/app/src/main/res/menu/repeat_popup_menu.xml" value="0.109375" />
+        <entry key="app/src/main/res/drawable/alarm_item_background.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/circle_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/circle_background_selected.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/circle_background_white.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/custom_switch_inner_holo_light.xml" value="0.223" />
+        <entry key="app/src/main/res/drawable/custom_switch_track_holo_light.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_alarm_white.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/ic_timelapse_white.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/minute_picker_background.xml" value="0.1215" />
+        <entry key="app/src/main/res/drawable/nav_bar_background.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/pickerleft.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/pickerright.xml" value="0.225" />
+        <entry key="app/src/main/res/drawable/toast_background.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/transparent_background.xml" value="0.182" />
+        <entry key="app/src/main/res/layout/activity_circle_alarm_timer_view.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/layout/activity_create_alarm.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/activity_edit_alarm.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/layout/activity_time_picker.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/alarm_list_day.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/alarm_list_view.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/fragment_alarm.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_stopwatch.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_timer.xml" value="0.22010869565217392" />
+        <entry key="app/src/main/res/layout/invalid_time_toast.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/product_view.xml" value="0.22010869565217392" />
+        <entry key="app/src/main/res/layout/transparent_background.xml" value="0.3572916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
