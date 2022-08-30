@@ -16,7 +16,6 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.ListView;
 
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.samsung.alarmteam6.adapters.AdapterStopWatch;
 import com.samsung.alarmteam6.models.Product;
 
@@ -24,7 +23,7 @@ import java.util.ArrayList;
 
 
 public class TimerFragment extends Fragment {
-    FloatingActionButton btnStart, btnStop, btnList, btnPause;
+    ImageButton btnStart, btnStop, btnList, btnPause;
     ImageView icanchor;
     long mLastTime;
     Chronometer timerHere;
@@ -54,11 +53,11 @@ public class TimerFragment extends Fragment {
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-        btnStart = getActivity().findViewById(R.id.btnStartTimer);
-        icanchor = getActivity().findViewById(R.id.icanchorTimer);
-        btnStop = getActivity().findViewById(R.id.btnStopTimer);
+        btnStart = getActivity().findViewById(R.id.btnStart);
+        icanchor = getActivity().findViewById(R.id.icanchor);
+        btnStop = getActivity().findViewById(R.id.btnStop);
         btnList = getActivity().findViewById(R.id.btnList);
-        btnPause = getActivity().findViewById(R.id.btnPauseTimer);
+        btnPause = getActivity().findViewById(R.id.btnPause);
         timerHere = getActivity().findViewById(R.id.timerHere);
         listViewProduct = getActivity().findViewById(R.id.list_time);
         proAdapterStopWatch = new AdapterStopWatch(getActivity().getApplicationContext(), mPro);

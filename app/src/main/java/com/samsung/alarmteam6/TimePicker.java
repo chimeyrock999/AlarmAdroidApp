@@ -10,12 +10,10 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-
 public class TimePicker extends AppCompatActivity {
     private int hour, minute, second;
     private long time;
-    FloatingActionButton btnResume, btnStop, btnPause;
+    ImageButton btnResume, btnStop, btnPause;
     TextView timeView, totalView;
     ImageView icanchor;
     ObjectAnimator animator;

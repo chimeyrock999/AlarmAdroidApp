@@ -18,10 +18,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.ListView;
 
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.samsung.alarmteam6.adapters.AlarmAdapter;
 import com.samsung.alarmteam6.database.AlarmOpenHelper;
 import com.samsung.alarmteam6.database.WeekOpenHelper;
@@ -43,7 +41,7 @@ public class AlarmFragment extends Fragment implements EventHandler {
     public int mEditCode = 1;
     int id = 0;
     int posEdit = 0;
-    FloatingActionButton btnAdd;
+    Button btnAdd;
     AlarmManager alarmManager;
     PendingIntent pendingIntent;
     Calendar calendar;

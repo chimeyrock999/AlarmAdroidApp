@@ -4,13 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/c_background"
+    android:background="@color/white"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="80dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
         android:background="@drawable/nav_bar_background"
         android:gravity="center_horizontal">
 
@@ -19,8 +22,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="start|center_vertical"
-            android:layout_marginRight="60dp"
-            android:background="@color/c_background"
+            android:layout_marginRight="100dp"
+            android:background="@drawable/circle_background_white"
             android:src="@drawable/ic_baseline_access_alarm_24" />
 
         <ImageButton
@@ -28,8 +31,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:layout_marginEnd="60dp"
-            android:background="@color/c_background"
+            android:layout_marginEnd="100dp"
+            android:background="@drawable/circle_background_white"
             android:src="@drawable/ic_baseline_timelapse_24"
 
             />
@@ -39,7 +42,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical|end"
-            android:background="@color/c_background"
+            android:background="@drawable/circle_background_white"
             android:src="@drawable/ic_baseline_timer_24" />
     </LinearLayout>
 
